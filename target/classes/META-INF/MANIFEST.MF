@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CostShare
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Michael
+Implementation-Vendor-Id: ch.costshare
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/CostShare/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
